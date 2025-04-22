@@ -1,2 +1,2 @@
-# unusual-games
-Collection of unusual 2D Games.
+# Unusual Games
+Collection Of Unusual 2D Games.
